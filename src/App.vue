@@ -30,13 +30,19 @@
     
     <div id="service" class="wrap">
       <h2 class="section-title">service</h2>
+
       <div class="top">
         <div class="top-img">
           <img src="./assets/img/service2.jpg">
         </div>
-        <div class="right-button">
+        <div class="top-content">
+          <h3>web制作事業</h3>
+          <p>コーチングのミッション</p>
+          <p>ユーザーが求める物を分析し、ユーザビリティを備えた最適なサイトを提供。建設業から美容、プライダル、飲食店まで多種多様な業種の制作実績があります。</p>
+          <div class="right-button">
             <a href="#" class="button">サービス詳細</a>
-        </div>
+          </div>
+        </div>       
       </div>
 
       <div class="bottom">
